@@ -1,0 +1,26 @@
+.booking-form {
+  margin-top: 30px;
+  border: 20px solid $backColor;
+  padding: 10px 20px; }
+}
+
+.booking-form__title {
+  margin-bottom: 10px;
+  color: $backColor;
+}
+
+.booking-form__field {
+  margin-bottom: 15px;
+}
+
+.booking-form__label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.booking-form__textbox {
+  width: 100%;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid lightgray;
+}
